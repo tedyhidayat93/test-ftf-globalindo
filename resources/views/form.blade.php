@@ -23,7 +23,7 @@
 
                         <div class="mb-3">
                             <label for="alamat" class="fw-bold form-label">ALAMAT</label>
-                            <input type="text" class="form-control" name="alamat" required>
+                            <textarea name="alamat" id="" class="form-control" cols="30" rows="3" required></textarea>
                         </div>
 
                         <div class="mb-3">
